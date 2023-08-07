@@ -1,0 +1,17 @@
+{
+  "name": "rabbitmq-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyank",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.9.1",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^1.7.3",
+    "uuid": "^8.3.2"
+  }
+}
