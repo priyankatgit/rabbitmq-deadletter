@@ -22,7 +22,7 @@ This repository covers the following key points:
 
 ## Flow Diagram
 The flow of the Dead Letter Queue is visually represented in the following diagram:
-
+![Flow Diagram](flow.mp4)
 ![Flow Diagram](rbmq.png)
 
 This diagram illustrates the entire process, from message publishing to dead letter queue handling and eventual message reprocessing.
